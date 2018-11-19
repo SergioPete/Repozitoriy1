@@ -9,7 +9,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLite("Подзаебало всё");
+            Console.WriteLite("Заколебало всё");
+            Console.WriteLite("Третий день мучаюсь");
         }
     }
 }
